@@ -1,0 +1,25 @@
+Circuit: * C:\Users\kulde\Documents\EE1025\Report6_Files\5_DifferentiatorAmplifier\DifferentiatorAmplifier.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(x1:v+)
+Ignoring empty pin current: Ix(x1:v-)
+Ignoring empty pin current: Ix(x1:v+)
+Ignoring empty pin current: Ix(x1:v-)
+
+Date: Tue Apr 21 02:37:04 2020
+Total elapsed time: 0.058 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3185
+traniter = 3182
+tranpoints = 1592
+accept = 1555
+rejected = 37
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 186 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2:      27 opcodes  0.0/[0.0]/0.0
+
