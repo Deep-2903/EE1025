@@ -1,0 +1,22 @@
+Circuit: * C:\Users\kulde\Documents\EE1025\Report8_Files\SOP_and_POS\POS.asc
+
+WARNING: Less than two connections to node Y.  This node is used by A4.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed May  6 04:48:31 2020
+Total elapsed time: 0.084 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6762
+traniter = 6758
+tranpoints = 3352
+accept = 2928
+rejected = 424
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1: 226 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.1
+

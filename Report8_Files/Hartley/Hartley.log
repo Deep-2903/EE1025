@@ -1,0 +1,21 @@
+Circuit: * C:\Users\kulde\Documents\EE1025\Report8_Files\Hartley\Hartley.asc
+
+.OP point found by inspection.
+
+Date: Wed May  6 04:59:44 2020
+Total elapsed time: 19.650 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6397011
+traniter = 6397011
+tranpoints = 2494973
+accept = 1744631
+rejected = 750342
+matrix size = 11
+fillins = 4
+solver = Normal
+Matrix Compiler1: 868 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 963 bytes object code size  0.1/0.2/[0.1]
+
